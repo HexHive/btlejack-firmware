@@ -63,7 +63,7 @@ typedef enum {
     /* Advertisements-related. */
     SNIFF_ADV,
     JAM_ADV_RX,
-    JAM_ADV_TX
+    JAM_ADV_TX,
     /* BLE5 related */
     PRNG_INIT,
     PRNG
